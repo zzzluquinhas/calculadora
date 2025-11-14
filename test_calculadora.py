@@ -10,10 +10,10 @@ def test_soma_misto():
     assert calc.soma(10, -2) == 8
 
 def test_subtrai_positivos():
-    assert calc.subtrai(10, 5) == 5
+    assert calc.subtracao(10, 5) == 5
 
 def test_subtrai_com_zero():
-    assert calc.subtrai(5, 0) == 5
+    assert calc.subtracao(5, 0) == 5
     
 def test_multiplicacao_positivos():
 	assert calc.multiplicacao(4, 5) == 20
