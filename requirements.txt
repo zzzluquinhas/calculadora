@@ -1,0 +1,3 @@
+# O repositório no momento não tem dependências externas
+# mas faz parte de boas práticas manter o arquivo para a pipeline de CI/CD
+# caso futuramente sejam adicionadas dependências
